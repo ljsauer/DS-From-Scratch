@@ -1,0 +1,7 @@
+""" Introduction to Data Science
+
+    1. Finding Key Connectors
+    Given a dict of ids and names, and a list of tuples
+    containing pairs of connections, find the number of
+    connections each id has with the others
+"""
